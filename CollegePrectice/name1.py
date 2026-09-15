@@ -1,6 +1,6 @@
-name="Lucky\nMehta"
-print(name)
+name1="Lucky\nMehta"
+print(name1)
 
 name="LuckyMehta"
-print("name")
-print(name)
+print("name")     #name
+print(name)       #LuckyMehta

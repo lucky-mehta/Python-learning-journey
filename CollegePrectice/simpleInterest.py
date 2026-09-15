@@ -1,3 +1,4 @@
+#WAP TO PRINT THE SIMPLE INTEREST WITH TAKING INPUT THROUGH THE USER.
 p=float(input("Enter the principle:"))
 r=float(input("Enter the rate:"))
 t=float(input("Enter the time:"))
