@@ -1,3 +1,5 @@
+# Disarium number=89=8*1+9*2=8+81=89
+
 n=int(input("Enter the any number:"))
 temp=n
 count=0
