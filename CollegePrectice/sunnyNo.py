@@ -1,5 +1,3 @@
-
-
 n = int(input("Enter a number: "))
 x = n + 1
 root = int(x ** 0.5)
